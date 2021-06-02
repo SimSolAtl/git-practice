@@ -8,7 +8,9 @@
 - git commit: Commit changes from staging area to current branch
 - git config: Set or get configuration
 - git log: Show history of project commits
-
+- git stash: Stash changes from working directory
+- git stash list: List stashes
+- git stash pop: Apply stashed changes to working directory
 ## Commit messages
 
 Default editor is vim (this can be changed)
@@ -21,4 +23,4 @@ Or use 'git commit -m "<message>"'
 - Use proper spelling, grammar, and punctuation
 - Don't end with a '.'
 
-For more advice, see: https://chris.beams.io/posts/git-commit 
+For more advice, see: https://chris.beams.io/posts/git-commit
