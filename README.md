@@ -54,6 +54,6 @@ Merging means to bring the changes from one branch into another.
 
 ## What's a remote?
 
-A remote repo is one hosted somewhere other than our local machine. We can add remotes with 'git remote add', and set up *tracking branches* to track differences between our local and remote repositories.
+- A remote repo is one hosted somewhere other than our local machine. We can add remotes with 'git remote add', and set up *tracking branches* to track differences between our local and remote repositories.
 
-We push to remotes with 'git push', and fetch from them with 'git fetch'. We can also fetch and merge in one step with 'git pull'.
+- We push to remotes with 'git push', and fetch from them with 'git fetch'. We can also fetch and merge in one step with 'git pull'.
